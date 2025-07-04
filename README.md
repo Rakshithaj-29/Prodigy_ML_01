@@ -37,7 +37,7 @@ R² Score: 0.6341189942328371
 
 ## 📌 Note
 This project was developed by Rakshitha Kumari J as part of the Prodigy Info Tech Machine Learning Virtual Internship.  
-- Rakshitha Kumari J
+-Rakshitha Kumari J
 
 
 
