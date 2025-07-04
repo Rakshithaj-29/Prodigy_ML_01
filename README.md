@@ -5,18 +5,18 @@ It is implemented in Python using libraries such as pandas, matplotlib, seaborn,
 ## 📌 Project Overview 
 The goal is to build a regression model that can predict the price of houses.  
 Based on input features such as the number of bedrooms, square footage, location, etc. The project includes:  
--- Data preprocessing and visualization  
--- Feature engineering
--- Model training and evaluation using Linear Regression
--- Prediction visualization
+-  Data preprocessing and visualization  
+- Feature engineering
+- Model training and evaluation using Linear Regression
+- Prediction visualization
 
 ## 📁 Dataset  
-Dataset used:https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+Dataset used:https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data  
 The dataset contains housing data with features like:  
--- Location  
--- Size in square feet  
--- Number of bedrooms and bathrooms  
--- Price (target variable)  
+- Location  
+- Size in square feet  
+- Number of bedrooms and bathrooms  
+- Price (target variable)  
 
 ## 📊 Technologies Used  
 Python  
@@ -37,16 +37,12 @@ R² Score: 0.6341189942328371
 
 ## 📌 Note
 This project was developed by Rakshitha Kumari J as part of the Prodigy Info Tech Machine Learning Virtual Internship.
-- Rakshitha Kumari J
+Rakshitha Kumari J
 
 
 
 
 
 
-🤝 Contributing
-Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions or improvements.
 
-📄 License
-This project is open-source and available under the MIT License.
 
